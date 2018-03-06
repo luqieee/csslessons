@@ -1,19 +1,17 @@
-    /* Style all P tags */
+h2{
+    font-size: 24px;
+}
 
-p{
+#content-header{
     font-size: 18px;
     color: red;
-
 }
 
-#header p {
-    font-size: 24px;
-
+span{
+    display: block;
+    color: blue;
 }
 
-        /* Style all header tags */
-
-    h1{
-        font-size: 44px;
-
-    }
+.deck{
+    color: red;
+}
